@@ -109,5 +109,5 @@ const EditAdmin = () => {
        </div>
     );
 }
-
+    
 export default EditAdmin;

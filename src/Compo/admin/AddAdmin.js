@@ -100,5 +100,5 @@ const AddAdmin = () => {
        </div>
     );
 };
-
+   
 export default AddAdmin;
